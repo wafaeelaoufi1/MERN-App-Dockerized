@@ -5,10 +5,21 @@ A product store : Dockerized MERN (MongoDB, Express, React, Node.js) application
 🔥 Build an API
 📱 Responsive UI With React.js and Tailwind css
 
-# Setup .env file
+### Setup .env file
+
+```shell
 MONGO_URI=your_mongo_uri
 PORT=5000
-# Run this app locally
+```
+
+### Run this app locally
+
+```shell
 npm run build
-Start the app
+```
+
+### Start the app
+
+```shell
 npm run start
+```
